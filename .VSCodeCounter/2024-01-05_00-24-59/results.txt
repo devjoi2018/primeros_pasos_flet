@@ -1,0 +1,43 @@
+Date : 2024-01-05 00:24:59
+Directory : c:\Users\Joinner\Documents\Projects\Python\Practicas\Practicas_flet\Pimeros_pasos_flet\dashboard
+Total : 10 files,  642 codes, 5 comments, 85 blanks, all 732 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         10 |        642 |          5 |         85 |        732 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                             | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                                |         10 |        642 |          5 |         85 |        732 |
+| . (Files)                                                                                                                                        |          1 |         33 |          0 |         10 |         43 |
+| data                                                                                                                                             |          1 |          6 |          0 |          2 |          8 |
+| global_controls                                                                                                                                  |          2 |        171 |          2 |         17 |        190 |
+| pages                                                                                                                                            |          5 |        356 |          1 |         40 |        397 |
+| pages\dashboard_page                                                                                                                             |          4 |        332 |          1 |         35 |        368 |
+| pages\dashboard_page (Files)                                                                                                                     |          1 |         60 |          0 |          5 |         65 |
+| pages\dashboard_page\controls                                                                                                                    |          3 |        272 |          1 |         30 |        303 |
+| pages\home_page                                                                                                                                  |          1 |         24 |          0 |          5 |         29 |
+| theme                                                                                                                                            |          1 |         76 |          2 |         16 |         94 |
++--------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                                         | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Joinner\Documents\Projects\Python\Practicas\Practicas_flet\Pimeros_pasos_flet\dashboard\data\global_memory.py                           | Python   |          6 |          0 |          2 |          8 |
+| c:\Users\Joinner\Documents\Projects\Python\Practicas\Practicas_flet\Pimeros_pasos_flet\dashboard\global_controls\custom_button.py                | Python   |         26 |          0 |          4 |         30 |
+| c:\Users\Joinner\Documents\Projects\Python\Practicas\Practicas_flet\Pimeros_pasos_flet\dashboard\global_controls\menu_control.py                 | Python   |        145 |          2 |         13 |        160 |
+| c:\Users\Joinner\Documents\Projects\Python\Practicas\Practicas_flet\Pimeros_pasos_flet\dashboard\main.py                                         | Python   |         33 |          0 |         10 |         43 |
+| c:\Users\Joinner\Documents\Projects\Python\Practicas\Practicas_flet\Pimeros_pasos_flet\dashboard\pages\dashboard_page\controls\header_control.py | Python   |         73 |          0 |          9 |         82 |
+| c:\Users\Joinner\Documents\Projects\Python\Practicas\Practicas_flet\Pimeros_pasos_flet\dashboard\pages\dashboard_page\controls\line_chart.py     | Python   |        135 |          1 |         13 |        149 |
+| c:\Users\Joinner\Documents\Projects\Python\Practicas\Practicas_flet\Pimeros_pasos_flet\dashboard\pages\dashboard_page\controls\top_containers.py | Python   |         64 |          0 |          8 |         72 |
+| c:\Users\Joinner\Documents\Projects\Python\Practicas\Practicas_flet\Pimeros_pasos_flet\dashboard\pages\dashboard_page\dashboard_page.py          | Python   |         60 |          0 |          5 |         65 |
+| c:\Users\Joinner\Documents\Projects\Python\Practicas\Practicas_flet\Pimeros_pasos_flet\dashboard\pages\home_page\home_page.py                    | Python   |         24 |          0 |          5 |         29 |
+| c:\Users\Joinner\Documents\Projects\Python\Practicas\Practicas_flet\Pimeros_pasos_flet\dashboard\theme\theme.py                                  | Python   |         76 |          2 |         16 |         94 |
+| Total                                                                                                                                            |          |        642 |          5 |         85 |        732 |
++--------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
